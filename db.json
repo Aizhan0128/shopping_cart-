@@ -1,1 +1,42 @@
-
+{
+      "_id": "5d29e39120bd22376dd09fff",
+      "title": "Acium",
+      "picture": "http://www.mamiyaleaf.com/assets/slider/product/product_slider_heinz_baumann.jpg",
+      "price": 94831
+    },
+    {
+      "_id": "5d29e3918ac67c69e438633a",
+      "title": "Rockabye",
+      "picture": "http://www.mamiyaleaf.com/assets/slider/product/product_slider_heinz_baumann.jpg",
+      "price": 18247
+    },
+    {
+      "_id": "5d29e391be5a1e9a7d678d62",
+      "title": "Repetwire",
+      "picture": "http://www.mamiyaleaf.com/assets/slider/product/product_slider_heinz_baumann.jpg",
+      "price": 19494
+    },
+    {
+      "_id": "5d29e3913878dbd47e05d308",
+      "title": "Waretel",
+      "picture": "http://www.mamiyaleaf.com/assets/slider/product/product_slider_heinz_baumann.jpg",
+      "price": 96654
+    },
+    {
+      "_id": "5d29e391e650e64440606124",
+      "title": "Codax",
+      "picture": "http://www.mamiyaleaf.com/assets/slider/product/product_slider_heinz_baumann.jpg",
+      "price": 9300
+    },
+    {
+      "_id": "5d29e391f0eac7e2b45bc39a",
+      "title": "Virva",
+      "picture": "http://www.mamiyaleaf.com/assets/slider/product/product_slider_heinz_baumann.jpg",
+      "price": 17905
+    },
+    {
+      "_id": "5d29e3915180142ce5c9b63e",
+      "title": "Comtest",
+      "picture": "http://www.mamiyaleaf.com/assets/slider/product/product_slider_heinz_baumann.jpg",
+      "price": 75800
+    }
